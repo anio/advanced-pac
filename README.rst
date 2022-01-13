@@ -1,6 +1,6 @@
 advanced PAC
 ------------
-Adnaced proxy auto-config (PAC) script
+Advanced proxy auto-config (PAC) script
 
 .. code:: javascript
 
